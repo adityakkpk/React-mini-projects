@@ -9,4 +9,6 @@ Made this project to learn about Custom hooks in React.
 
 - Create Custom Hooks.
 
+- Create Reusable Input Component.
 
+- Combine all the components and add the functionality to the project.
